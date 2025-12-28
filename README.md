@@ -2,7 +2,8 @@
 
 ## 📌 Project Overview
 This project is a full-stack Task Management Application developed as part of the Final Capstone Project.  
-It implements secure user authentication, role-based access control (Admin/User), and complete CRUD operations with proper frontend–backend integration.
+It implements secure user authentication, role-based access control (Admin/User), 
+and complete CRUD operations with proper frontend–backend integration.
 
 ---
 
@@ -143,4 +144,6 @@ Robust validation and error handling
 
 📌 Conclusion
 
-This project demonstrates a strong foundation in full-stack web development concepts, including authentication, authorization, CRUD operations, and real-world application architecture using the MERN stack.
+This project demonstrates a strong foundation in full-stack web development concepts,
+including authentication, authorization, CRUD operations, and real-world application
+architecture using the MERN stack.
