@@ -122,6 +122,10 @@ Password: 123456
 Email: admin@test.com
 Password: admin123
 
+📸 Screenshots
+
+Screenshots demonstrating authentication, dashboards, and CRUD operations are included in the screenshots folder.
+
 🎯 Key Highlights
 
 JWT-based secure authentication
