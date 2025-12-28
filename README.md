@@ -124,7 +124,8 @@ Password: admin123
 
 📸 Screenshots
 
-Screenshots demonstrating authentication, dashboards, and CRUD operations are included in the screenshots folder.
+Screenshots demonstrating authentication, dashboards, and CRUD operations are included in the
+screenshots folder.
 
 🎯 Key Highlights
 
